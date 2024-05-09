@@ -483,6 +483,10 @@ textarea {
 .section-contact .grid {
   gap: 6.4rem;
 }
+.labelstyle{
+  border-radius: 1rem;
+  border: 1.5px solid #795050;
+}
 
 /* fooooter */
 
